@@ -2,13 +2,12 @@
   "name": "mnm3e",
   "title": "Mutants & Masterminds 3rd Edition",
   "description": "A system containing the OSD for the third edition of Mutants & Masterminds.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "templateVersion": 1,
   "author": "Mark van Ginkel",
   "scripts": [
   ],
-  "esmodules": [
-  ],
+  "esmodules": ["mnm3e.js"],
   "styles": [
   ],
   "packs": [
