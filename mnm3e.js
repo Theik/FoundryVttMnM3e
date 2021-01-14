@@ -1,5 +1,5 @@
 Hooks.once("init", function() {
-  console.log(`MnM3e | Initializing the MnM3e Game System\n;
+  console.log(`MnM3e | Initializing the MnM3e Game System\n`);
  
   // Register sheet application classes
   Actors.unregisterSheet("core", ActorSheet);
