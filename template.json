@@ -1,0 +1,57 @@
+{
+"Actor": {
+  "types": ["character", "minion"],
+  "templates": {
+    "abilities": {
+      "str": {
+        "min": -5,
+        "value": 0,
+        "max": 20
+      },
+      "sta": {
+        "min": -5,
+        "value": 0,
+        "max": 20
+      },	
+      "agl": {
+        "min": -5,
+        "value": 0,
+        "max": 20
+      },	
+      "dex": {
+        "min": -5,
+        "value": 0,
+        "max": 20
+      },	
+      "fgt": {
+        "min": -5,
+        "value": 0,
+        "max": 20
+      },
+      "int": {
+        "min": -5,
+        "value": 0,
+        "max": 20
+      },	 
+      "awe": {
+        "min": -5,
+        "value": 0,
+        "max": 20
+      },	  
+      "pre": {
+        "min": -5,
+        "value": 0,
+        "max": 20
+      },	  
+    }
+  },
+  "character": {
+    "templates": ["abilities"],
+  },
+  "minion": {
+    "templates": ["abilities"]
+  },
+},
+"Item": {
+}
+}
