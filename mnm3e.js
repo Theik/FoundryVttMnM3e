@@ -1,3 +1,7 @@
+// Import Entities
+import ActorMnM3e from "./module/actor/entity.js";
+import ActorSheetMnM3eCharacter from "./module/actor/sheets/character.js";
+
 Hooks.once("init", function() {
   console.log(`MnM3e | Initializing the MnM3e Game System\n`);
  
